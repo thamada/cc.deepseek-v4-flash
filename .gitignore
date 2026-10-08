@@ -1,0 +1,6 @@
+third_party/
+models/
+.install/
+.venv/
+var/
+*.gguf
